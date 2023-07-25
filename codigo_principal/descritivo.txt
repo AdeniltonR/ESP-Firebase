@@ -1,0 +1,13 @@
+! Atenção ! 
+
+Cada versão nova que vc criar no código, atualizar cabeçalho nesse documento.
+
+/*
+ * NOME: ADENILTO RIBEIRO
+ * DATA: 24/07/2023
+ * PROJETO: ESP32 FIREBASE
+ * VERSAO: 01
+ * DESCRICAO: - EXEMPLO DE FUNÇÃO GET. EXEMPLO DE FUNÇÃO SET. EXEMPLO DE PUSH. 
+ * LINK: - https://github.com/mobizt/Firebase-ESP32
+*/
+
