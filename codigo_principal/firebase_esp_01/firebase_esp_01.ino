@@ -27,15 +27,15 @@
 /** @brief Velocidade do baud rade */
 #define BAUD_RATE                115200
 /** @brief Nome da rede WI-FI */
-const char* ssid =               "WIFI-FACENS";
+const char* ssid =               "nome-da-sua-rede-wi-fi";
 /** @brief Nome da senha */
-const char* password =           "nbGe!N1&tfzK";
+const char* password =           "senha";
 
 //---configurações de firebase--- 
 /** @brief Link do seu banco de dados */                  
-#define FIREBASE_HOST            "https://inovacaohw-a1e36-default-rtdb.firebaseio.com/" 
+#define FIREBASE_HOST            "link-do-seu-banco-de-dados-firebase" 
 /** @brief Senha do seu banco de dados */
-#define FIREBASE_AUTH            "WW3R4qYLLgPHXfvrZaolDG3MUTS4s9SHEBT7P4Az"  
+#define FIREBASE_AUTH            "senha-do-seu-banco-de-dados"  
 /** @brief Configurações do ID Firebase */
 #define ID_para_teste_inovacao   "/inovacao_teste/teste_1/estado"           
 // ========================================================================================================
